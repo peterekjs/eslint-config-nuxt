@@ -1,0 +1,41 @@
+{
+  "name": "@peterek/eslint-config-nuxt",
+  "version": "0.0.0",
+  "description": "Eslint config for Nuxt.js & TypeScript projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterekjs/eslint-config-nuxt.git"
+  },
+  "keywords": [
+    "check",
+    "checker",
+    "code",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "nuxt",
+    "nuxtjs",
+    "style",
+    "style checker",
+    "style linter"
+  ],
+  "author": "Jiri Peterek <jiri.peterek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterekjs/eslint-config-nuxt/issues"
+  },
+  "homepage": "https://github.com/peterekjs/eslint-config-nuxt#readme",
+  "peerDependencies": {
+    "eslint": "^6.8.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@nuxtjs/eslint-config-typescript": "^1.0.2",
+    "@nuxtjs/eslint-module": "^1.1.0"
+  }
+}
